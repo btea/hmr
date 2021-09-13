@@ -7,4 +7,5 @@
 [webpack 文件监听以及热更新](https://www.cnblogs.com/ssaylo/p/13644032.html)  
 [彻底搞懂并实现 webpack 热更新原理](https://segmentfault.com/a/1190000020310371)  
 [手把手深入理解 webpack dev middleware 原理与相关 plugins](https://segmentfault.com/a/1190000005614604?utm_source=tuicool&utm_medium=referral)  
-[深入解析 Vue 的热更新原理](https://blog.csdn.net/weixin_40906515/article/details/108016372)
+[深入解析 Vue 的热更新原理](https://blog.csdn.net/weixin_40906515/article/details/108016372)  
+[Webpack原理系列十：HMR原理全解析](https://mp.weixin.qq.com/s/cbYMpuc4hnV9NA4VfqJLvg)  
